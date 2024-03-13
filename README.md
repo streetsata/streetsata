@@ -10,7 +10,8 @@ I love the entire process of developing creative projects. In my practice, I use
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/serhii-artemenko-630a28179/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Serhii Artemenko | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/serhii-artemenko-630a28179/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Serhii Artemenko | LinkedIn" width="21px"/></a>
+</br>
 <a href=" mailto:sergartem.sa@gmail.com">Send E-mail</a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
