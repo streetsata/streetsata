@@ -3,7 +3,7 @@
 ## and I'm .Net developer
 
 
-**streetsata/streetsata** is a ✨ _my own special_ ✨ repository
+**[streetsata/streetsata](https://github.com/streetsata)** is a ✨ _my own special_ ✨ repository
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
