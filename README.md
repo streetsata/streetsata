@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.strivemindz.com/images/offerings/mobile/asp-dotnet-development.jpg" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm Serhii Artemenko 👋
 </h3>
