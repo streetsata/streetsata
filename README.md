@@ -3,9 +3,7 @@
 ## and I'm .Net developer
 
 
-**streetsata/streetsata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**streetsata/streetsata** is a ✨ _my own special_ ✨ repository
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
