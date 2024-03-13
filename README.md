@@ -63,6 +63,6 @@ I love the entire process of developing creative projects. In my practice, I use
 
 ![Anurag's GitHub stats](https://github-readme-stats-sepia-iota-87.vercel.app/api?username=streetsata&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Top Langs](hhttps://github-readme-stats-sepia-iota-87.vercel.app?username=streetsata/api/top-langs/?username=streetsata)](https://github.com/streetsata)
+[![Top Langs](https://github-readme-stats-sepia-iota-87.vercel.app/api/top-langs/?username=streetsata)](https://github.com/streetsata)
 
 
