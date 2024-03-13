@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm Serhii Artemenko
+## and I'm .Net developer
 
 
 **streetsata/streetsata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
