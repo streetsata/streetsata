@@ -8,4 +8,6 @@
 - 🔭 I’m currently working on "How to Deploy ASP.NET Core Web API to Kubernetes Cluster on Azure"
 - 🌱 I’m currently learning Kubernetes
 - 💬 Ask me about .Net technology 
-- 📫 How to reach me: tg: @streetsata
+- 📫 How to reach me:
+  -  tg: @streetsata
+  
