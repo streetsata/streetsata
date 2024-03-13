@@ -6,7 +6,7 @@ Hi there, I'm Serhii Artemenko 👋
 I'm a Full-Stack ASP .Net Developer 💻
 </h2> 
 
-I love the entire process of developing creative projects. With a more four of hands-on experience in software development, I bring forth a strong track record encompassing four years of proficiency in .NET technology and over five years of expertise in working with both relational and non-relational databases. Throughout my career, I have played a pivotal role in contributing to the growth and success of various projects, from their initial conception to ensuring sustained operational excellence.
+I love the entire process of developing creative projects. In my practice, I use a combination of .NET, relational and non-relational databases. For the frontend, I leverage Angular. With a more four of hands-on experience in software development, I bring forth a strong track record encompassing four years of proficiency in .NET technology and over five years of expertise in working with both relational and non-relational databases. Throughout my career, I have played a pivotal role in contributing to the growth and success of various projects, from their initial conception to ensuring sustained operational excellence.
 
 ### 🤝 Connect with me:
 
