@@ -3,7 +3,7 @@
 ## and I'm .Net developer
 
 
-**[streetsata](https://github.com/streetsata)** is a ✨ _my own special_ ✨ repositories
+**[streetsata](https://github.com/streetsata)** is a ✨ _my own_ ✨ repositories
 
 - 🔭 I’m currently working on "How to Deploy ASP.NET Core Web API to Kubernetes Cluster on Azure"
 - 🌱 I’m currently learning Kubernetes
