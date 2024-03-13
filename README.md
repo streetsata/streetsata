@@ -16,18 +16,15 @@ I love the entire process of developing creative projects. With a more four of h
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Authentication with JWT and Angular (ASP .Net + Angular)
+- RealTimeCharts (Working on it soon...)
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- How to Deploy ASP.NET Core Web API to Kubernetes Cluster on Azure
+- ASP.NET Core Authentication with JWT and Angular
+- Angular
+- RealTimeCharts with SignalR, ASP.NET Core and Angular
 
 ## 💼 Technical Skills
 
@@ -56,12 +53,11 @@ I love the entire process of developing creative projects. With a more four of h
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
+## 📝 Latest My Personal Posts
 
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+- [RoadMap ASP.NET Developer. Part 2](https://blog.ithillel.ua/articles/roadmap-professii-asp-net-developer-chast-2)
+- [RoadMap ASP.NET Developer. Part 1](https://blog.ithillel.ua/articles/roadmap-professii-asp-net-developer-chast-1)
+- [All about methods. Definition of methods in C#](https://blog.ithillel.ua/videos/vse-o-metodah-primenenie-metodov-v-c)
 
 ## 📈 GitHub Stats 
 
