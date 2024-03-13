@@ -10,4 +10,4 @@
 - 💬 Ask me about .Net technology 
 - 📫 How to reach me:
   -  tg: @streetsata
-  -  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](h[ttps://www.linkedin.com/](https://www.linkedin.com/in/serhii-artemenko-630a28179/)) 
+  -  **[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](h[ttps://www.linkedin.com/](https://www.linkedin.com/in/serhii-artemenko-630a28179/))**
