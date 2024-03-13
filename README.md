@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Serhii Artemenko
 ## and I'm .Net developer
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streetsata&layout=compact)](https://github.com/streetsata)
 
 **[streetsata](https://github.com/streetsata)** is a ✨ _my own_ ✨ repositories
 
