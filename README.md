@@ -69,7 +69,7 @@ I love the entire process of developing creative projects. With a more four of h
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=streetsata)](https://github.com/streetsata)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streetsata&layout=compact)](https://github.com/streetsata)
 
