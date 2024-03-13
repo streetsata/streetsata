@@ -62,6 +62,7 @@ I love the entire process of developing creative projects. In my practice, I use
 ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=streetsata)](https://github.com/streetsata)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=streetsata&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streetsata&layout=compact)](https://github.com/streetsata)
 
