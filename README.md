@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
 Hi there, I'm Serhii Artemenko 👋
-</h3>
+</h2>
 
 <h2 align="center">
 I'm a Full-Stack ASP .Net Developer 💻
