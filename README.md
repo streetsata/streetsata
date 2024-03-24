@@ -16,6 +16,7 @@ Find to the left of this view ;)
 
 ## 🔭 I'm currently working on
 
+- ASP .Net Core app - dockerization
 - Authentication with JWT and Angular (ASP .Net + Angular)
 - RealTimeCharts (Working on it soon...)
 
