@@ -18,7 +18,7 @@ Find to the left of this view ;)
 
 - ASP .Net Core app - dockerization
 - Authentication with JWT and Angular (ASP .Net + Angular)
-- RealTimeCharts (Working on it soon...)
+- Implementing a URL shortening service using .NET
 
 ## 🌱 I'm currently learning
 
