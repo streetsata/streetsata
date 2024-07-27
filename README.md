@@ -107,6 +107,7 @@ Find to the left of this view ;)
 
 ## 📝 Latest My Personal Posts
 
+- [I was interviewed by a podcast )))](https://www.youtube.com/playlist?list=PLu4KUT920iElEThjAJZwiFmQaf5wOaipM)
 - [RoadMap ASP.NET Developer. Part 2](https://blog.ithillel.ua/articles/roadmap-professii-asp-net-developer-chast-2)
 - [RoadMap ASP.NET Developer. Part 1](https://blog.ithillel.ua/articles/roadmap-professii-asp-net-developer-chast-1)
 - [All about methods. Definition of methods in C#](https://blog.ithillel.ua/videos/vse-o-metodah-primenenie-metodov-v-c)
