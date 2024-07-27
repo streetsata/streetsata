@@ -16,16 +16,14 @@ Find to the left of this view ;)
 
 ## 🔭 I'm currently working on
 
-- ASP .Net Core app - dockerization
-- Authentication with JWT and Angular (ASP .Net + Angular)
-- Implementing a URL shortening service using .NET
+- Angular, .NET API, Azure, and Docker application
 
 ## 🌱 I'm currently learning
 
-- How to Deploy ASP.NET Core Web API to Kubernetes Cluster on Azure
-- ASP.NET Core Authentication with JWT and Angular
 - Angular
-- RealTimeCharts with SignalR, ASP.NET Core and Angular
+- .NET API
+- Azure
+- Docker
 
 ## 💼 Technical Skills
 
