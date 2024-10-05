@@ -23,8 +23,7 @@ Find to the left of this view ;)
 - Angular
 - .NET API
 - Azure
-- Docker
-
+- TTS
 ## 💼 Technical Skills
 
 ### Languages
